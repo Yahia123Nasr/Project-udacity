@@ -1,3 +1,0 @@
-file name : SSH-One
-domains : http://darkl0rd.com:7758/SSH_T
-http://darkl0rd.com:7758/SSH-One
