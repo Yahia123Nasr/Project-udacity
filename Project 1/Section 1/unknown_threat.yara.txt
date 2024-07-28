@@ -1,0 +1,10 @@
+rule unknon_threat
+{
+meta :
+     author="yahia nasr"
+     version="0.1"
+strings: 
+     $domain = "darkl0rd.com:7758"
+condition 
+     all of them
+}

@@ -1,0 +1,10 @@
+Templatize.aspitem='UNION'
+Templatize.aspitem='
+Templatize.aspitem='%22
+Templatize.aspitem=9%2c+9%2c+9
+Templatize.aspitem='bad_bad_value
+Templatize.aspitem=bad_bad_value'
+Templatize.aspitem='+OR+'
+Templatize.aspitem='WHERE
+Templatize.aspitem=%3B
+Templatize.aspitem='OR

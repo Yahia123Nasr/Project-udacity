@@ -1,0 +1,9 @@
+ps aux | grep apache
+www-data  1234  0.0  0.0  1123456  12345  ?        Ss   12:34:56 /usr/sbin/apache2 -k start
+sudo groupadd apache-group
+sudo useradd -g apache-group apache-user
+sudo chown -R apache-user:apache-group /etc/apache2
+sudo nano /etc/apache2/apache2.conf
+User apache-user
+Group apache-group
+sudo systemctl restart apache2
