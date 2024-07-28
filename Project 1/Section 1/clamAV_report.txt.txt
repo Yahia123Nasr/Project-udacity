@@ -1,0 +1,9 @@
+File 1
+Name : wipefs
+detection name : UNix.Tool.Miner-6443173-o
+File 2 
+Name : gt64
+Detiction name : Unix.Malware.Agent-6774336-0
+File 3 
+Name :ft32
+Detiction name : Unix.malware.Agent-6774375-0
